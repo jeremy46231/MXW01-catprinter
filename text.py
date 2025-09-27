@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import subprocess
 
-DEVICE_ID = "[your id]"  
+DEVICE_ID = "[your ID]"  
 IMAGE_FILE = "text.png"  
 FONT_SIZE = 24  
 
